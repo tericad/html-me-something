@@ -59,3 +59,14 @@ a {
 p {
         margin: 50px 100px 50px 100px;
 }
+
+p.Bang {
+        font-size: 2.4em;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#last_line {
+        from {color: white;}
+        to {color: #330033;}
+    }
+}
