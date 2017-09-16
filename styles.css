@@ -65,8 +65,6 @@ p.Bang {
         font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-#last_line {
-        from {color: white;}
-        to {color: #330033;}
-    }
+#lastline {
+       text-decoration: underline;
 }
